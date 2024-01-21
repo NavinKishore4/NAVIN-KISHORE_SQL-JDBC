@@ -9,7 +9,7 @@ public class EmployeeOperator {
 		int n = 0;
 		Scanner sc = new Scanner(System.in);
 
-		while (n != 7) {
+		while (n != 6) {
 			System.out.println("Enter 1 to Add Employee");
 			System.out.println("Enter 2 to view all Employee ");
 			System.out.println("Enter 3 to delete specific employee");
