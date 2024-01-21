@@ -39,10 +39,6 @@ public class EmployeeOperator {
 				e.deleteAll();
 				break;
 			}
-			case 6: {
-				System.out.println("Exit successfully");
-				break;
-			}
 			default: {
 				System.out.println("Enter the values within 1-6");
 			}
